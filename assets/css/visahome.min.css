@@ -1,0 +1,132 @@
+.visa-page-intro{color:#fff;font-size:1.5rem;line-height:1;margin:3rem 0}
+.visa-page-intro .title{font-weight:400;line-height:1;margin-bottom:1.5rem;text-transform:uppercase}
+.visa-page-intro .title.underline{border-width:0 0 1px 0;border-style:solid;border-color:rgba(255,255,255,0.5);padding-bottom:1rem;margin-bottom:2rem}
+.visa-page-intro .divider-line{border-color:#fff;margin:1.5rem 0;opacity:.5}
+.visa-page-intro .link-cta:after{font-size:inherit;top:.4rem}
+.visa-page-intro a:not(.btn){color:#fff}
+.visa-page-intro a.btn-default{text-shadow:none}
+.visa-page-intro h1,.visa-page-intro .h1{line-height:110%;margin-bottom:1.5rem;text-shadow:2px 2px 4px rgba(0,0,0,0.5)}
+.visa-page-intro li{padding-bottom:1rem}
+.visa-page-intro.theme-blue{color:#1a1f71}
+.visa-page-intro.theme-blue a{color:#1a1f71}
+.visa-page-intro.theme-blue a.btn-primary{color:white}
+.visa-page-intro.theme-blue .divider-line{border-color:#1a1f71}
+.visa-page-intro.theme-blue .title.underline{border-color:rgba(26,31,113,0.5)}
+.visa-page-intro .btn-size.btn{max-width:100%}
+.visa-page-intro .newHPBanner .page-related-stories{display:block;margin-top:5rem}
+.newHPBanner .buttonComp{margin:2.5rem 0 0rem}
+.newHPBanner .buttonComp .row{margin:0}
+.newHPBanner .buttonComp .mb-head-guide{margin-bottom:0;padding:4px 4px 4px 10px}
+.newHPBanner ul.list-unstyled li{line-height:3rem}
+.hpSubHeader{font-size:2.5rem}
+.btn-xs.mb-head-guide{height:auto;line-height:1.5;width:100%;font-size:1.9rem}
+@media(max-width:768px){.home-page-full-width .essential-tasks-container{border-bottom:8px solid #e7e7e7}
+.home-page-full-width .visa-page-intro{margin:30px 0 0}
+.home-page-full-width .visa-page-intro .title{padding-left:15px}
+.home-page-full-width{padding:0;width:100%}
+.home-page-full-width .row{margin:0}
+.home-page-full-width .margin-btm-30,.home-page-full-width .visa-content-card,.home-page-full-width .visa-nav-tasks,.home-page-full-width .focused-twitter-feed,.home-page-full-width .focused-careers-list{margin-bottom:0}
+.home-page-full-width .col-xs-1,.home-page-full-width .col-sm-1,.home-page-full-width .col-md-1,.home-page-full-width .col-lg-1,.home-page-full-width .col-xs-2,.home-page-full-width .col-sm-2,.home-page-full-width .col-md-2,.home-page-full-width .col-lg-2,.home-page-full-width .col-xs-3,.home-page-full-width .col-sm-3,.home-page-full-width .col-md-3,.home-page-full-width .col-lg-3,.home-page-full-width .col-xs-4,.home-page-full-width .col-sm-4,.home-page-full-width .col-md-4,.home-page-full-width .col-lg-4,.home-page-full-width .col-xs-5,.home-page-full-width .col-sm-5,.home-page-full-width .col-md-5,.home-page-full-width .col-lg-5,.home-page-full-width .col-xs-6,.home-page-full-width .col-sm-6,.home-page-full-width .col-md-6,.home-page-full-width .col-lg-6,.home-page-full-width .col-xs-7,.home-page-full-width .col-sm-7,.home-page-full-width .col-md-7,.home-page-full-width .col-lg-7,.home-page-full-width .col-xs-8,.home-page-full-width .col-sm-8,.home-page-full-width .col-md-8,.home-page-full-width .col-lg-8,.home-page-full-width .col-xs-9,.home-page-full-width .col-sm-9,.home-page-full-width .col-md-9,.home-page-full-width .col-lg-9,.home-page-full-width .col-xs-10,.home-page-full-width .col-sm-10,.home-page-full-width .col-md-10,.home-page-full-width .col-lg-10,.home-page-full-width .col-xs-11,.home-page-full-width .col-sm-11,.home-page-full-width .col-md-11,.home-page-full-width .col-lg-11,.home-page-full-width .col-xs-12,.home-page-full-width .col-sm-12,.home-page-full-width .col-md-12,.home-page-full-width .col-lg-12{padding:0}
+.home-page-full-width .figure-container{width:100%}
+.home-page-full-width .visa-content-card .card-details{padding:1.5rem}
+.home-page-full-width .newHPBanner{padding:0 15px 15px 15px}
+.visa-page-intro.theme-blue .title,.visa-page-intro.theme-blue .title.underline{padding:15px 0 15px 15px}
+.home-page-full-width .twitterFeed,.home-page-full-width .visa-page-intro,.home-page-full-width .visa-content-card,.home-page-full-width .visa-content-card-sm,.home-page-full-width .visa-content-card-md,.home-page-full-width .visa-content-card-lg,.home-page-full-width .visa-content-card-xl{border-bottom:8px solid #e7e7e7}
+.home-page-full-width .cta-title{padding:0 0 10px 15px}
+}
+@media(min-width:768px){.mobile-homepage-image{display:none}
+.visa-page-intro{font-size:1.8rem;margin:4rem 0}
+.visa-page-intro .divider-line{margin:2rem 0}
+.btn-xs.mb-head-guide{width:auto}
+.visa-homepage .visa-page-intro.width40{width:40%}
+.visa-homepage .visa-page-intro.width50{width:50%}
+.visa-homepage .visa-page-intro.width60{width:60%}
+.visa-homepage .visa-page-intro.width70{width:70%}
+.visa-homepage .visa-page-intro.width80{width:80%}
+.visa-homepage .visa-page-intro.width90{width:90%}
+.visa-homepage .visa-page-intro.width100{width:100%}
+}
+@media(min-width:992px){.visa-page-intro{font-size:2rem;margin:6rem 0}
+.visa-page-intro .title.underline{margin-bottom:3.5rem}
+.visa-page-intro .divider-line{margin:2rem 0 3.5rem}
+.visa-page-intro li{padding-bottom:1.5rem}
+.btn-xs.mb-head-guide{font-size:2.1rem}
+}
+@media(min-width:1200px){.visa-page-intro{font-size:2.5rem;margin:6rem 0}
+.btn-xs.mb-head-guide{font-size:2.2rem}
+}
+@media(min-width:1200px) and (max-height:768px){.visa-page-intro .page-related-stories{display:none}
+}
+@media(min-width:1200px) and (min-height:1025px){.visa-page-intro{margin:11.5rem 0}
+}
+@media(max-width:420px){.visa-page-intro .newHPBanner{width:100%}
+}
+@media(min-width:768px){.newHPBanner .hpSubHeader{margin-bottom:2.1rem}
+.high-position{margin-top:0}
+.medium-position{margin-top:80px}
+.low-position{margin-top:120px}
+}
+@media(min-width:992px){.newHPBanner .wrap50{width:100%}
+.newHPBanner .hpSubHeader{margin-bottom:2.3rem}
+.high-position{margin-top:0}
+.medium-position{margin-top:130px}
+.low-position{margin-top:200px}
+}
+@media(min-width:1200px){.newHPBanner .hpSubHeader{font-size:2.5rem;margin-bottom:2.5rem}
+.high-position{margin-top:0}
+.medium-position{margin-top:160px}
+.low-position{margin-top:260px}
+}
+.container-background-image{background-size:contain;background-repeat:no-repeat;background-position:center top}
+.container-background-image.cover{background-size:cover}
+@media(min-width:768px){.container-background-image{background-size:100% auto;background-attachment:fixed}
+}
+.visa-nav-tasks{background-color:rgba(26,31,113,0.95);padding:1.5rem;color:#fff}
+.visa-nav-tasks .title{border-bottom:1px solid #f7b600;font-weight:600;font-size:1rem;line-height:1;padding-bottom:.5rem;text-transform:uppercase}
+.visa-nav-tasks .visa-icon{color:#f7b600;font-size:3rem;left:1.5rem;position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);position:absolute}
+.visa-nav-tasks .task-link{color:#fff;display:block;margin:0 -1.5rem;padding:1rem 1.5rem 1rem 5.5rem;position:relative}
+.visa-nav-tasks .task-link:hover,.visa-nav-tasks .task-link:focus{background-color:#053ea9;color:#fff;text-decoration:none}
+.visa-nav-tasks .task-link:hover .visa-icon,.visa-nav-tasks .task-link:focus .visa-icon{color:inherit}
+.visa-nav-tasks .task-link .link-label{font-size:1.8rem;line-height:1}
+.visa-nav-tasks ul{margin-top:1rem;margin-bottom:0}
+.visa-nav-tasks li{border-bottom:1px solid rgba(255,255,255,0.25)}
+.visa-nav-tasks.theme-gold{background-color:rgba(247,182,0,0.9);color:#1a1f71}
+.visa-nav-tasks.theme-gold .title{border-color:#1a1f71}
+.visa-nav-tasks.theme-gold .visa-icon{color:#fff}
+.visa-nav-tasks.theme-gold .task-link{color:#1a1f71}
+.visa-nav-tasks.theme-gold .task-link:hover,.visa-nav-tasks.theme-gold .task-link:focus{background-color:#ffd700;color:#1a1f71}
+.visa-nav-tasks.theme-gold li{border-color:rgba(255,255,255,0.5)}
+@media(min-width:768px){.visa-nav-tasks .title{font-size:1.2rem;padding-bottom:.8rem}
+.visa-nav-tasks .visa-icon{font-size:3rem}
+.visa-nav-tasks .task-link{padding:1rem 1.5rem 1rem 5.3rem}
+.visa-nav-tasks .task-link .link-label{font-size:1.6rem}
+}
+@media(min-width:992px){.visa-nav-tasks .title{font-size:1.3rem;padding-bottom:.8rem}
+.visa-nav-tasks .visa-icon{font-size:3.5rem}
+.visa-nav-tasks .task-link{padding:1.2rem 1.5rem 1.2rem 5.7rem}
+.visa-nav-tasks .task-link .link-label{font-size:2.2rem}
+}
+@media(min-width:1200px){.visa-nav-tasks .title{font-size:1.5rem;padding-bottom:1rem}
+.visa-nav-tasks .visa-icon{font-size:3.8rem}
+.visa-nav-tasks .task-link{padding:1.5rem 1.5rem 1.5rem 6.5rem}
+.visa-nav-tasks .task-link .link-label{font-size:2.6rem}
+}
+.inset-shadow-bot,.focused-careers-list .body{box-shadow:inset 0 -3px 2px -2px #d8dde1}
+.focused-careers-list{background-color:rgba(255,255,255,0.95);padding:1.5rem;padding:0}
+.focused-careers-list .box{padding-bottom:3rem}
+.focused-careers-list .heading{position:relative;padding:1.5rem 0 .2rem;border-bottom:1px solid #dedede;box-shadow:0 3px 2px -2px #d8dde1}
+.focused-careers-list .title{color:#1a1f71;font-weight:600;font-size:1.5rem;line-height:1;margin:0 10px;text-transform:uppercase}
+.focused-careers-list .visa-icon-suitcase{color:#f7b600;font-size:4rem;margin-top:-7px;vertical-align:middle}
+.focused-careers-list .body{border-bottom:1px solid #dedede;padding:0 1.5rem}
+.focused-careers-list .body h4{line-height:1}
+.focused-careers-list .body ul{display:block;max-height:506px;list-style:none;margin:0;overflow:auto;outline:0;padding:0}
+.focused-careers-list .body ul:focus,.focused-careers-list .body ul:active{outline:0 !important}
+.focused-careers-list .body ul li{border-bottom:1px solid #dedede;padding:1rem 0}
+.focused-careers-list .body ul li:last-child{border-bottom:0}
+.focused-careers-list .body .job{color:#1a1f71}
+.focused-careers-list .body .location{color:#5c5c5c}
+.focused-careers-list .body .date{color:#5c5c5c}
+@media(min-width:992px){.focused-careers-list .footer{height:4.2rem}
+.focused-careers-list .footer .share,.focused-careers-list .footer .info{display:none}
+}
+.appleios .focused-careers-list .body ul{overflow-y:scroll;-webkit-overflow-scrolling:touch}
